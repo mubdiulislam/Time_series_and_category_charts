@@ -1,0 +1,8 @@
+
+Sales Summary
+=============
+Total Sales Amount   : 5019265.23
+Top Region           : North
+Top Product Category : Clothing
+Top Sales Rep        : David
+Date Range           : 2023-01-01 to 2024-01-01
